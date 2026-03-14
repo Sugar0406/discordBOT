@@ -23,3 +23,6 @@
                              神獸保佑            永無BUG
 """ 
 ```
+
+# DiscordBOT
+BOT url https://discord.com/oauth2/authorize?client_id=1481863363545006090&permissions=8&integration_type=0&scope=bot
