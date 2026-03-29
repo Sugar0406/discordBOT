@@ -2,7 +2,7 @@ from cogs.cog_main import MyCog
 import discord
 from discord import app_commands, Interaction
 from discord.ext import commands
-
+from keep_alive import keep_alive
 
 # import re
 # from dotenv import load_dotenv
@@ -10,7 +10,7 @@ import os
 
 
 
-
+keep_alive()
 
 
 
