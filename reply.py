@@ -1,10 +1,9 @@
 from google import genai
-from dotenv import load_dotenv
 import os
 from google.genai import types
-import asyncio
 
-load_dotenv()
+
+# load_dotenv()
 
 # async def ask_gemma_async(query: str) -> str:
 #     loop = asyncio.get_running_loop()

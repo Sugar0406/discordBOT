@@ -3,8 +3,8 @@ from discord.ext import commands
 from discord import app_commands
 from reply import ask_gemma
 import re
-import time
-import asyncio
+# import time
+# import asyncio
 
 class MyCog(commands.Cog):
 

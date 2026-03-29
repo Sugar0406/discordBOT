@@ -4,8 +4,8 @@ from discord import app_commands, Interaction
 from discord.ext import commands
 
 
-import re
-from dotenv import load_dotenv
+# import re
+# from dotenv import load_dotenv
 import os 
 
 
@@ -103,7 +103,7 @@ class ShishiBOT(commands.Bot):
 #             await ctx.respond("You executed the slash command!")
 
 # 讀取 APIKEY
-load_dotenv()
+# load_dotenv()
 discord_bot_token = os.getenv("DISCORD_BOT_API_KEY")
 
 # 設定 intents
