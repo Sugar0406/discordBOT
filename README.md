@@ -30,5 +30,6 @@ BOT url https://discord.com/oauth2/authorize?client_id=1481863363545006090&permi
 
 
 # 目前功能
+$汐汐 [query] -> 將query送入LLM (gemini-3.1-flash-lite-preview  without google_search)
 
-@汐汐 [query] -> 將query送入LLM (gemini-3.1-flash-lite-preview  without google_search)
+# server維護
